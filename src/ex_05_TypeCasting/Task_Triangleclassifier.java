@@ -28,5 +28,4 @@ public class Task_Triangleclassifier {
             System.out.println("Scalene Triangle");
         }
     }
-
 }
