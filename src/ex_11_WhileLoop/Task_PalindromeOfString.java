@@ -1,4 +1,4 @@
-package Lab_11_WhileLoop;
+package ex_11_WhileLoop;
 
 public class Task_PalindromeOfString {
     public static void main(String[] args) {
