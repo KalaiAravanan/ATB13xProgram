@@ -6,13 +6,13 @@ public class Challenge4 {
           //      - Show the difference between --i and i--
             //    - Print values before and after operations
         int a = 5;
-
         System.out.println("Original:" +a);
+
+        System.out.println("Pre increnemnt:"+ a);
         int b = ++a;
+        System.out.println("Post increnemnt:"+ b);
 
-        System.out.println("Pre increnemnt:"+ b);
-
-
+        System.out.println("Pre increnemnt:"+ a);
         int c = a++;
                 System.out.println("Post increment :"+ c);
 
