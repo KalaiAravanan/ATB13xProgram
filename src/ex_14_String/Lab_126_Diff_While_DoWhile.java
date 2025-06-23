@@ -1,4 +1,4 @@
-package ex_14_DoWhile;
+package ex_14_String;
 
 public class Lab_126_Diff_While_DoWhile {
     public static void main(String[] args) {

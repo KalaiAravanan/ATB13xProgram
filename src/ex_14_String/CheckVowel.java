@@ -1,4 +1,4 @@
-package ex_14_DoWhile;
+package ex_14_String;
 import java.util.Scanner;
 
 public class CheckVowel {

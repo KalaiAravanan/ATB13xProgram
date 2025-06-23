@@ -1,4 +1,4 @@
-package ex_14_DoWhile;
+package ex_14_String;
 
 public class Lab127_DoWhile_RealTime_Example {
     public static void main(String[] args) {
