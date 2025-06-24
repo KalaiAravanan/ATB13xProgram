@@ -1,5 +1,4 @@
 package ex_13_Functions;
-import java.util;
 import java.util.Scanner;
 
 public class Lab_134_Arthimetic_Operators {

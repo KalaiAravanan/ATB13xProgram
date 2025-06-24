@@ -2,7 +2,7 @@ package ex_13_Functions;
 
 public class Lab_130_SimpleMethods {
     public static void main(String[] args) {
-       f1();
+       pramod_f1();
     }
     static void pramod_f1() {
         System.out.println("No Return");
