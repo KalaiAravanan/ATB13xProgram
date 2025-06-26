@@ -1,5 +1,7 @@
 package ex_15_StringBuilder_Vs_StringBuffer;
 
+import java.util.Scanner;
+
 public class Task_PersonCanTravel_Based_OnVisaStatusAndAge {
     public static void main(String[] args) {
         /*take the input from the user for
@@ -31,5 +33,5 @@ public class Task_PersonCanTravel_Based_OnVisaStatusAndAge {
 
     }
     }
-}
+
 
