@@ -39,5 +39,31 @@ public class Task_LoanEligibility {
             System.out.println("Sorry you're not eligible for loan");
         }
     }
- }
+}
+        /*
+        System.out.println("Enter your age");
+        Scanner scanner1 = new Scanner(System.in);
+        int age = scanner1.nextInt();
+
+        System.out.println("Enter your Salary");
+        Scanner scanner2 = new Scanner(System.in);
+        double salary = scanner2.nextDouble();
+
+        System.out.println("Enter your Credit Score");
+        Scanner scanner3 = new Scanner(System.in);
+        int creditScore = scanner1.nextInt();
+
+        if ((age <= 0) || (salary <= 0) || (creditScore <= 0)) {
+            System.out.println("Enter an Valid Age, Salary, Credit Score: ");
+            return;
+        }
+
+        else if ((age > 18) && (age < 80) && (salary >= 30000) && (creditScore >= 650) && (creditScore <=850)) {
+            System.out.println("Congrats !! You're eligible for Loan");
+        }
+        else{
+            System.out.println("Sorry ! You're not eligible for an Loan");
+        }
+        */
+
 
