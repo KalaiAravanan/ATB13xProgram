@@ -9,7 +9,8 @@ public class LeftTriangleStarPattern {
         //  ****
         // *****
 
-        int rows = 5;  
+        int rows = 5;
+
 
         for (int i = 1; i <= rows; i++) {
             // Print spaces first
