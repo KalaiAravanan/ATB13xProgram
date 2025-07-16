@@ -1,6 +1,6 @@
 package ex_32_CollectionFramework_DSA;
 
-public class List_Lab_240 {
+public class List_Lab_240_ArrayList {
     public static void main(String[] args) {
         Integer[] arr = new Integer[10]; // Fixed Size
         arr[0] = 12;

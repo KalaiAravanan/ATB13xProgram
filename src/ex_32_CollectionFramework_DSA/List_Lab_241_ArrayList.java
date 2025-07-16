@@ -2,7 +2,7 @@ package ex_32_CollectionFramework_DSA;
 
 import java.util.ArrayList;
 
-public class List_Lab_241 {
+public class List_Lab_241_ArrayList {
     public static void main(String[] args) {
         ArrayList  al = new ArrayList();
         al.add("Kalai");

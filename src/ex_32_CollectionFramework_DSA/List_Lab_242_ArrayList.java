@@ -2,7 +2,7 @@ package ex_32_CollectionFramework_DSA;
 
 import java.util.*;
 
-public class List_Lab_242 {
+public class List_Lab_242_ArrayList {
     public static void main(String[] args) {
         ArrayList arrayList = new ArrayList();
         arrayList.add("pramod");
